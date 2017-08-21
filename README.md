@@ -1,4 +1,4 @@
-# TrainingRepo
+# TrainingRepo test
 A way to test collaborative Gitting and learning where we can't break anything,
 
 # Requirements (based on a Windows pc) 
