@@ -6,7 +6,7 @@ A way to test collaborative Gitting and learning where we can't break anything,
 
 - Install VS code
 - Install Git for windows 
-- Install Powershell v5.1 (if not on win 10 already)
+- Install Powershell v5.1 (if not on win 10 already)gitgit 
 - Install Powershell module for vs code
 
 
